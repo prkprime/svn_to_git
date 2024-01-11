@@ -41,7 +41,7 @@
 - in svn, when you commit, your changes are directly reflected on central repo/server.
 - in git, you commit your changes to local repository and then push them to central server whenever needed.
 - this gives us freedom of developing feature locally with changes split in commits without breaking code for other people.
-- [refer image for difference diagram](https://www.git-tower.com/learn/media/pages/git/ebook/en/command-line/appendix/from-subversion-to-git/d8bce57f3a-1697824976/centralized-vs-distributed.png)
+- ![refer image for difference diagram](https://www.git-tower.com/learn/media/pages/git/ebook/en/command-line/appendix/from-subversion-to-git/d8bce57f3a-1697824976/centralized-vs-distributed.png)
 
 ### GIT commands
 - ```git init``` -> initializes an empty repository in current folder
